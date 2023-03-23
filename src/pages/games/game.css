@@ -1,0 +1,32 @@
+.todo {
+   
+  
+    display: flex;
+    /* justify-content: end; */
+ 
+}
+
+.title {
+    width: 80%;
+    height: 50px;
+    border: 2px solid white;
+    
+    
+}
+.todoform {
+    display: flex;
+    /* justify-content: end; */
+}
+
+.buttons {
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
